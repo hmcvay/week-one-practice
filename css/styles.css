@@ -9,21 +9,43 @@
   float: right;
   width: 30%;
   border: dotted black;
+  padding-bottom: 15px;
   border-width: 5px;
-  box-sizing: border-box;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 50px;
 }
 
 .box2 {
   float: left;
   width: auto;
-  border: solid rgb(224, 209, 209);
+  color: red;
+  background-color:rgb(224, 209, 209);
+  border: solid black;
   border-width: 2px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  box-sizing: border-box;
 }
 
 h1 {
   text-align: center;
   color: rgb(224, 209, 209);
-  font-size: 80pt;
+  font-size: 70pt;
+}
+
+.important {
+  color: rgb(224, 209, 209);
+}
+
+.size {
+  font-size:smaller;
+}
+
+.color {
+  color: black;
 }
 
 p {
@@ -32,6 +54,7 @@ p {
 }
 
 body {
+  margin-top: 40px;
   background-color: red;
   font-family: monospace;
 }
