@@ -2,7 +2,7 @@
 
 #### By Hayley McVay
 
-#### A simple demonstration site showcasing HTML and CSS.
+#### A simple demonstration site showcasing HTML and CSS. Link to GitHub Pages here: hmcvay.github.io/week-one-practice
 
 ## Technologies Used
 
