@@ -6,8 +6,8 @@
 }
 
 .sidebar {
-  margin-left: 20px;
-  margin-top: 100px;
+  margin: 20px;
+  padding: 20px;
   color:rgb(224, 209, 209);
   width: 30%;
   float: left;
@@ -57,6 +57,10 @@ h1 {
   color: black;
 }
 
+.center {
+  text-align: center;
+}
+
 p {
   text-align: justify;
   font-size: 16pt;
@@ -64,6 +68,7 @@ p {
 
 body {
   margin-top: 40px;
+  margin-bottom: 40px;
   background-color: red;
   font-family: monospace;
 }
